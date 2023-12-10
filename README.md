@@ -1,0 +1,2 @@
+# pagina
+Aprendizaje de componentes 
